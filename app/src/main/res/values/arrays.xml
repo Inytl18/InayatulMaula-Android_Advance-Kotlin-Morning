@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="data_nama">
+        <item>Nasi Goreng</item>
+        <item>Nasi Kuning</item>
+        <item>Nasi Padang</item>
+        <item>Sate</item>
+        <item>Soto</item>
+        <item>Bakso</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/nasi_goreng</item>
+        <item>@drawable/nasi_kuning</item>
+        <item>@drawable/nasi_padang</item>
+        <item>@drawable/sate</item>
+        <item>@drawable/soto</item>
+        <item>@drawable/bakso</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Nasi goreng adalah makanan berupa nasi yang digoreng dan dicampur dalam minyak goreng, margarin, atau mentega. Biasanya ditambah dengan kecap manis, bawang merah, bawang putih, asam jawa, lada dan bahan lainnya; seperti telur, daging ayam, dan kerupuk. Ada pula nasi goreng jenis lain yang dibuat bersama dengan ikan asin yang juga populer di seluruh Indonesia.</item>
+        <item>Nasi kuning adalah makanan khas Indonesia. Makanan ini terbuat dari beras yang dimasak bersama dengan kunyit serta santan dan rempah-rempah. Dengan ditambahkannya bumbu-bumbu dan santan, nasi kuning memiliki rasa yang lebih gurih daripada nasi putih.</item>
+        <item>Nasi padang adalah nasi putih yang disajikan dengan berbagai macam lauk-pauk khas Minangkabau, Indonesia. Kata padang merujuk pada ibu kota Provinsi Sumatera Barat, Padang. Nasi padang adalah sebuah hidangan yang disajikan secara lengkap secara prasmanan dengan daging, ikan, sayuran, dan makanan pedas yang dimakan dengan nasi putih. Nasi padang merupakan komoditas ekspor paling terkenal dan masyarakat Minangkabau mempunyai kontribusi yang besar untuk masakan Indonesia.</item>
+        <item>Sate adalah makanan yang terbuat dari daging yang dipotong kecil-kecil dan ditusuk sedemikian rupa dengan tusukan lidi tulang daun kelapa atau bambu, kemudian dipanggang menggunakan bara arang kayu. Sate disajikan dengan berbagai macam bumbu yang bergantung pada variasi resep sate. Daging yang dijadikan sate antara lain daging ayam, kambing, domba, sapi, babi, kelinci, kuda, dan lain-lain.</item>
+        <item>Soto (juga dikenal dengan beberapa nama lokal seperti, sroto, sauto, tauto, atau coto) adalah makanan khas Indonesia seperti sop yang terbuat dari kaldu daging dan sayuran. Daging yang paling sering digunakan adalah daging sapi dan daging ayam, tetapi ada pula yang menggunakan daging babi, daging kuda atau daging kambing. </item>
+        <item>Bakso adalah jenis bola daging yang lazim ditemukan pada masakan Indonesia. Bakso umumnya dibuat dari campuran daging sapi giling dan tepung tapioka, tetapi ada juga bakso yang terbuat dari daging ayam, babi, ikan, udang bahkan daging kerbau. Dalam penyajiannya, bakso umumnya disajikan panas-panas dengan kuah kaldu sapi bening, dicampur mi, bihun, taoge, tahu, terkadang telur lalu ditaburi bawang goreng dan seledri.</item>
+
+    </string-array>
+
+    <string-array name="dataNamaShop">
+        <item>Baju Pink</item>
+        <item>Jumpsuit</item>
+        <item>Rangkaian Skincare</item>
+        <item>Moisturizer</item>
+        <item>Sunscreen</item>
+        <item>Celana</item>
+        <item>Hoodie</item>
+    </string-array>
+
+    <string-array name="dataPhotoShop">
+        <item>@drawable/baju1</item>
+        <item>@drawable/baju2</item>
+        <item>@drawable/all_skincare</item>
+        <item>@drawable/moist</item>
+        <item>@drawable/sunscreen</item>
+        <item>@drawable/celana</item>
+        <item>@drawable/hoodie</item>
+    </string-array>
+
+    <string-array name="dataDescShop">
+        <item>Baju adalah istilah untuk pakaian yang digunakan untuk menutupi badan, terutama badan bagian atas. Bagian yang ditutupi dapat bermacam-macam tergantung jenis bajunya.</item>
+        <item>Jumpsuit atau bisa disebut romper merupakan atasan terusan yang memiliki kancing pada bagian badan hingga kaki yang bisa memudahkan para orangtua saat mengganti popok bayi.</item>
+        <item>Perawatan kulit adalah rangkaian dari berbagai penerapan yang mendukung keadaan integritas kulit, untuk meningkatkan sebuah penampilan dan mengubah kondisi kulit. Mereka dapat mengandung nutrisi, menghindari dari paparan sinar matahari yang berlebihan dan penggunaan produk kulit emolien yang tepat. Kegiatan yang dapat meningkatkan penampilan termasuk dalam penggunaan kosmetik, botulinum, pengelupasan kulit, pengisi, pelapisan ulang laser, mikrodermabrasi, pengelupasan kulit, terapi retinol dan perawatan kulit ultrasonik.</item>
+        <item>Pelembap adalah kosmetik perawatan yang digunakan untuk melindungi, melembapkan dan memberikan lumasan untuk permukaan kulit. Kulit sebenarnya memiliki mekanisme pelembapan sendiri yang dilakukan kelenjar minyak pada kulit sehat, sehingga pelembap umumnya tidak disarankan untuk orang dengan kulit berminyak. Penggunaan pelembap ditekankan pada orang-orang berkulit kering atau cenderung kering, khususnya saat berada pada lingkungan yang kering seperti ruangan berpenyejuk udara.</item>
+        <item>Sunscreen atau juga dikenal dengan tabir surya adalah produk perawatan kulit berfungsi untuk melindungi kulit dari pengaruh sinar UV dari matahari yang dapat merusak kulit. Sunscreen sendiri memiliki banyak tekstur atau jenis, mulai dari losion, semprotan, gel, hingga foam. </item>
+        <item>Celana adalah pakaian luar yang menutup pinggang sampai mata kaki, kadang-kadang hanya sampai lutut, yang membungkus batang kaki secara terpisah, terutama merupakan pakaian lelaki.</item>
+        <item>Kaus bertudung atau jaket bertudung adalah kaus dengan tudung. Hoodies dengan ritsleting biasanya memiliki dua kantong di bagian depan bawah, satu di kedua sisi ritsleting, sedangkan hoodies "pullover" (tanpa ritsleting) sering menyertakan satu sarung tangan atau saku besar di lokasi yang sama. Kedua gaya (biasanya) menyertakan tali untuk menyesuaikan bukaan kap. Saat dipakai, tudung menutupi sebagian besar kepala dan leher dan terkadang wajah. Hoodie dapat dipakai untuk perlindungan terhadap lingkungan (cuaca dingin, hujan dan sebagainya).</item>
+
+    </string-array>
+</resources>
